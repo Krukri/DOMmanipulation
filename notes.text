@@ -1,0 +1,19 @@
+reference links:
+https://developer.mozilla.org/en-US/docs/Web/API/Element/append
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/append
+MDN reference for DOM
+
+
+
+
+https://www.youtube.com/watch?v=y17RuWkWdn8
+
+
+- video reference from Kyle Cook
+
+append - can append strings, and all of the elements that the appendChild can append. You can also append a bunch of things unlike appendChild.
+
+
+appendChild - can append, divs, achor tag, style
